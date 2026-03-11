@@ -10,13 +10,13 @@ Funcional / Gestió de Comptes
 1.0
 
 ### Title: 
-Registre d'usuaris multirrol
+Registre i accés d'usuaris
 
 ### Description: 
-El sistema ha de permetre als usuaris registrar-se indicant el tipus de compte inicial (client, repartidor o cuiner). Un mateix usuari podrà assumir els tres rols a l'aplicació i afegir o treure rols associats al seu compte en qualsevol moment des de la configuració del perfil.
+El sistema permetrà als usuaris registrar-se des de zero usant un compte de correu electrònic, o bé accedir usant com a dreceres (shortcuts) gestors de correu com Gmail o Outlook. Només els usuaris registrats podran fer comandes.
 
 ### Relations: 
-RF-1-02, RF-1-03
+RF-1-02, RF-1-04
 
 ### Comments: 
-Aquest requisit és fonamental ja que defineix l'arquitectura de permisos de tota la base de dades d'usuaris.
+S'haurà de contemplar l'ús del protocol OAuth per a la integració amb Gmail i Outlook.
