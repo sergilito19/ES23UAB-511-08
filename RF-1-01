@@ -1,0 +1,22 @@
+# Requirements Template
+
+### ID: 
+RF-1-01
+
+### Type/Category:
+Funcional / Gestió de Comptes
+
+### Version: 
+1.0
+
+### Title: 
+Registre d'usuaris multirrol
+
+### Description: 
+El sistema ha de permetre als usuaris registrar-se indicant el tipus de compte inicial (client, repartidor o cuiner). Un mateix usuari podrà assumir els tres rols a l'aplicació i afegir o treure rols associats al seu compte en qualsevol moment des de la configuració del perfil.
+
+### Relations: 
+RF-1-02, RF-1-03
+
+### Comments: 
+Aquest requisit és fonamental ja que defineix l'arquitectura de permisos de tota la base de dades d'usuaris.
