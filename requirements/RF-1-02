@@ -10,13 +10,13 @@ Funcional / Gestió de Comptes
 1.0
 
 ### Title: 
-Creació del perfil d'usuari
+Accés mitjançant Gmail
 
 ### Description: 
-Abans de realitzar la primera comanda, l'usuari haurà d'omplir un perfil indicant obligatòriament la seva adreça de recollida de comanda i el seu nom d'usuari. Opcionalment, podrà indicar restriccions alimentàries com al·lèrgies o menjars que no vol rebre. El perfil podrà ser actualitzat o eliminat (baja de l'aplicació) en tot moment.
+L'aplicació ha de permetre l'accés d'usuaris mitjançant l'ús de dreceres (shortcuts) del gestor de correu Gmail.
 
 ### Relations: 
-RF-1-01, RF-1-03, RF-2-01
+RF-1-01
 
 ### Comments: 
-Aquestes dades són claus per al filtratge posterior de l'oferta de plats.
+Requisit derivat de la necessitat de simplificar l'accés a l'usuari.
