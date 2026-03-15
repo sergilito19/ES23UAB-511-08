@@ -1,0 +1,22 @@
+# Requirements Template
+
+### ID: 
+RF-5-01
+
+### Type/Category:
+Funcional / Valoració
+
+### Version: 
+1.0
+
+### Title: 
+Valoració del servei i el producte
+
+### Description: 
+Un cop rebuda la comanda, el client tindrà l'opció de valorar-la, indicant aspectes obligatoris com la puntualitat i l'estat del menjar rebut.
+
+### Relations: 
+RF-5-02
+
+### Comments: 
+(pending)
