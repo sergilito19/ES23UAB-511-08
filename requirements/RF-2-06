@@ -1,0 +1,22 @@
+# Requirements Template
+
+### ID: 
+RF-2-06
+
+### Type/Category:
+Funcional / Realització de Comandes
+
+### Version: 
+1.0
+
+### Title: 
+Llistat de plats per cuiner
+
+### Description: 
+En la vista de cuiners, els usuaris poden accedir a un llistat de tots els plats que ofereix el cuiner seleccionat en aquell moment.
+
+### Relations: 
+RF-2-05
+
+### Comments: 
+(pending)
