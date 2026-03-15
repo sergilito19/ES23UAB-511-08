@@ -16,7 +16,7 @@ Selecció de rol en el registre
 A l'hora de realitzar el registre, l'usuari ha d'indicar el tipus de compte que es vol crear, podent triar entre client, repartidor o cuiner.
 
 ### Relations: 
-RF-1-05
+RF-1-06
 
 ### Comments: 
 El sistema ha de permetre aquesta elecció inicial per configurar la interfície per defecte.
