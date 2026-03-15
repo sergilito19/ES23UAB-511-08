@@ -10,13 +10,13 @@ Funcional / Gestió de Comptes
 1.0
 
 ### Title: 
-Validació de credencials d'usuari
+Accés mitjançant Outlook
 
 ### Description: 
-El sistema haurà de validar que el nom d'usuari tingui un mínim de 5 caràcters i no estigui repetit en el sistema. Pel que fa a la contrasenya, se sol·licitarà un mínim de 8 caràcters, essent imprescindible que contingui dues lletres majúscules i almenys dos caràcters especials.
+L'aplicació ha de permetre l'accés d'usuaris mitjançant l'ús de dreceres (shortcuts) del gestor de correu Outlook.
 
 ### Relations: 
-RF-1-01, RF-1-02
+RF-1-01
 
 ### Comments: 
 (pending)
