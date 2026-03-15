@@ -1,0 +1,22 @@
+# Requirements Template
+
+### ID: 
+RF-2-11
+
+### Type/Category:
+Funcional / Realització de Comandes
+
+### Version: 
+1.0
+
+### Title: 
+Consulta d'ingredients detallada
+
+### Description: 
+Els usuaris poden consultar la llista completa d'ingredients que conté cadascun dels plats abans de fer la selecció.
+
+### Relations: 
+RF-2-12
+
+### Comments: 
+(pending)
