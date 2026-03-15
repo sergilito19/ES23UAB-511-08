@@ -1,0 +1,22 @@
+# Requirements Template
+
+### ID: 
+RF-1-11
+
+### Type/Category:
+Funcional / Gestió de Comptes
+
+### Version: 
+1.0
+
+### Title: 
+Validació de longitud de la contrasenya
+
+### Description: 
+La contrasenya de l'usuari haurà de tenir 8 caràcters com a mínim.
+
+### Relations: 
+RF-1-12
+
+### Comments: 
+(pending)
