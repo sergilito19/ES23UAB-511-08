@@ -1,0 +1,22 @@
+# Requirements Template
+
+### ID: 
+RF-2-13
+
+### Type/Category:
+Funcional / Realització de Comandes
+
+### Version: 
+1.0
+
+### Title: 
+Consulta d'al·lèrgens
+
+### Description: 
+El sistema permetrà consultar de manera específica els al·lèrgens associats a cada plat abans de tancar la comanda.
+
+### Relations: 
+RF-1-08
+
+### Comments: 
+(pending)
