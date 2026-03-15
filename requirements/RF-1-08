@@ -1,0 +1,22 @@
+# Requirements Template
+
+### ID: 
+RF-1-08
+
+### Type/Category:
+Funcional / Gestió de Comptes
+
+### Version: 
+1.0
+
+### Title: 
+Configuració de restriccions alimentàries
+
+### Description: 
+L'usuari podrà indicar al seu perfil, de manera opcional, les seves restriccions alimentàries, com al·lèrgies o menjars que no vol rebre.
+
+### Relations: 
+RF-2-03
+
+### Comments: 
+(pending)
