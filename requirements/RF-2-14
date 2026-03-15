@@ -1,0 +1,22 @@
+# Requirements Template
+
+### ID: 
+RF-2-14
+
+### Type/Category:
+Funcional / Realització de Comandes
+
+### Version: 
+1.0
+
+### Title: 
+Límit de comandes actives simultànies
+
+### Description: 
+Per garantir el correcte funcionament, un mateix client no podrà tenir més de tres comandes actives alhora en el sistema.
+
+### Relations: 
+Sense completar (pending)
+
+### Comments: 
+(pending)
