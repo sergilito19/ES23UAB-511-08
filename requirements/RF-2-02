@@ -1,0 +1,22 @@
+# Requirements Template
+
+### ID: 
+RF-2-02
+
+### Type/Category:
+Funcional / Realització de Comandes
+
+### Version: 
+1.0
+
+### Title: 
+Restricció de comandes a usuaris registrats
+
+### Description: 
+Només aquells usuaris que estiguin registrats en el sistema tindran la possibilitat de realitzar comandes.
+
+### Relations: 
+RF-1-01, RF-2-01
+
+### Comments: 
+(pending)
