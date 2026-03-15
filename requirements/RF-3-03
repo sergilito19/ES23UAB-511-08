@@ -1,0 +1,22 @@
+# Requirements Template
+
+### ID: 
+RF-3-03
+
+### Type/Category:
+Funcional / Enviament de Comandes
+
+### Version: 
+1.0
+
+### Title: 
+Gratuïtat en recollida local
+
+### Description: 
+El sistema aplicarà un cost d'enviament de zero euros en el cas que el client seleccioni l'opció de recollir la comanda personalment al domicili del cuiner.
+
+### Relations: 
+RF-3-01, RF-3-02
+
+### Comments: 
+(pending)
