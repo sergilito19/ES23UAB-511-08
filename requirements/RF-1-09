@@ -1,0 +1,22 @@
+# Requirements Template
+
+### ID: 
+RF-1-09
+
+### Type/Category:
+Funcional / Gestió de Comptes
+
+### Version: 
+1.0
+
+### Title: 
+Validació de longitud del nom d'usuari
+
+### Description: 
+El nom d'usuari definit pel client haurà de tenir 5 caràcters com a mínim.
+
+### Relations: 
+RF-1-10
+
+### Comments: 
+(pending)
