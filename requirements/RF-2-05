@@ -1,0 +1,22 @@
+# Requirements Template
+
+### ID: 
+RF-2-05
+
+### Type/Category:
+Funcional / Realització de Comandes
+
+### Version: 
+1.0
+
+### Title: 
+Alternança de vistes de catàleg
+
+### Description: 
+Els usuaris podran escollir entre dues vistes diferents: un llistat de plats i menús individuals o un llistat dels usuaris que ofereixen els seus serveis (cuiners) en aquest moment.
+
+### Relations: 
+RF-2-06, RF-2-07
+
+### Comments: 
+(pending)
