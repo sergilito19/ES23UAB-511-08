@@ -1,0 +1,22 @@
+# Requirements Template
+
+### ID: 
+RF-3-04
+
+### Type/Category:
+Funcional / Enviament de Comandes
+
+### Version: 
+1.0
+
+### Title: 
+Seguiment de la comanda en temps real
+
+### Description: 
+Un cop l'enviament hagi començat, el client podrà seguir la posició actual del repartidor en un mapa interactiu que utilitza la interfície de Google Maps.
+
+### Relations: 
+RF-4-01
+
+### Comments: 
+(pending)
