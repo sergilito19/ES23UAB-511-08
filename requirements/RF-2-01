@@ -1,0 +1,22 @@
+# Requirements Template
+
+### ID: 
+RF-2-01
+
+### Type/Category:
+Funcional / Realització de Comandes
+
+### Version: 
+1.0
+
+### Title: 
+Consulta de menús per a usuaris no registrats
+
+### Description: 
+Qualsevol usuari, encara que no estigui registrat, podrà consultar els diferents menús disponibles en l'aplicació en cada moment.
+
+### Relations: 
+RF-2-02
+
+### Comments: 
+(pending)
