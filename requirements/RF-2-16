@@ -1,0 +1,22 @@
+# Requirements Template
+
+### ID: 
+RF-2-16
+
+### Type/Category:
+Funcional / Realització de Comandes
+
+### Version: 
+1.0
+
+### Title: 
+Repetició de comandes prèvies
+
+### Description: 
+El sistema permetrà repetir una comanda prèvia de l'historial si el plat i el cuiner estan disponibles en el moment actual.
+
+### Relations: 
+RF-2-15
+
+### Comments: 
+(pending)
