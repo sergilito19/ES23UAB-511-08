@@ -1,0 +1,22 @@
+# Requirements Template
+
+### ID: 
+RF-1-05
+
+### Type/Category:
+Funcional / Gestió de Comptes
+
+### Version: 
+1.0
+
+### Title: 
+Perfil d'usuari multirrol
+
+### Description: 
+Un mateix usuari pot assumir els tres rols (client, repartidor o cuiner) en l'aplicació simultàniament.
+
+### Relations: 
+RF-1-04, RF-1-06
+
+### Comments: 
+(pending)
